@@ -1,4 +1,4 @@
-theme : jekyll-theme-fire
+theme : jekyll-theme-dark
 import { useTheme } from "../core/theme.js";
 
 function ExampleA(): JSX.Element {
