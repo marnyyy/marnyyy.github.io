@@ -1,11 +1,20 @@
-## marnyyy.github.io
+     marnyyy.github.io | Enjoye | playing |
+
 
 # Welcome to 🅷🅾🆁🅸🆉🅾🅽 🅿🅻🅰🆈  Ground
 
 ## 𝘽𝙚𝙩𝙖
 
-### Choose a game to play
+### Choose a game to play 
 
+<div class="wrap">
+   <div class="search">
+      <input type="text" class="searchTerm" placeholder="Search a game">
+      <button type="submit" class="searchButton">
+        <i class="fa fa-search"></i>
+     </button>
+   </div>
+</div>
 
 ## Ztype | [【﻿Ｐｌａｙ】](https://zty.pe/)_________## SubwaySurfers  | [【﻿Ｐｌａｙ】](https://poki.com/en/g/subway-surfers)
 
