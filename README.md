@@ -1,4 +1,4 @@
-     marnyyy.github.io | Enjoye | playing |
+     marnyyy.github.io | Enjoy | playing |
 
 
 # Welcome to 🅷🅾🆁🅸🆉🅾🅽 🅿🅻🅰🆈  Ground
