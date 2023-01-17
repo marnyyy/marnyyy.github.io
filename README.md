@@ -7,15 +7,6 @@
 
 ### Choose a game to play 
 
-__________________________________________________________<div class="wrap">
-   <div class="search">
-      <input type="text" class="searchTerm" placeholder="Search a game?">
-      <button type="submit" class="searchButton">
-        <i class="fa fa-search"></i>
-     </button>
-   </div>
-</div>
-
 ## Ztype|[【﻿Ｐｌａｙ】](https://zty.pe/)________ SubwaySurfers|[【﻿Ｐｌａｙ】](https://poki.com/en/g/subway-surfers)
 
 ![68747470733a2f2f732e6c7579656e67616d652e6e65742f67616d65732f7a747970652f66656666396562663466306532323166353733333039373635633936373963652e6a7067 (1)](https://user-images.githubusercontent.com/122366301/212936019-620d693c-5813-4096-93f3-943dbf2a4221.jpg)
