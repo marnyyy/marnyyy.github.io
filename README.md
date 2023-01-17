@@ -1,5 +1,4 @@
 ## marnyyy.github.io
-Marnie Dabucol
 
 # Welcome to Horizon Play Ground
 
