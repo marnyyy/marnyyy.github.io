@@ -1,12 +1,1 @@
-theme : jekyll-theme-dark
-import { useTheme } from "../core/theme.js";
 
-function ExampleA(): JSX.Element {
-  // Access the auto-detected or the user-selected theme
-  const theme = useTheme("Dinky");
-}
-
-function ExampleB(): JSX.Element {
-  // Explicitely access the "dark" theme
-  const theme = useTheme("dark");
-}
