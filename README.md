@@ -30,8 +30,16 @@
 
 - Tutorials videos (in roblox)
 
+### Worst editor 
+
+- Alightmotion
+
+- Capcut
+
 - and more...
 
 (Games that are in this page isn't mine)
 
 -end
+
+### <pre>                                                                                            About me
