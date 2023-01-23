@@ -4,7 +4,7 @@
 # Welcome to 🅷🅾🆁🅸🆉🅾🅽 🅿🅻🅰🆈  Ground
 
 ## 𝘽𝙚𝙩𝙖
-
+### <pre>                                                                                                [About me]
 ### Choose a game to play 
 
 ## Ztype|[【﻿Ｐｌａｙ】](https://zty.pe/)___ SubwaySurfers|[【﻿Ｐｌａｙ】](https://poki.com/en/g/subway-surfers)
@@ -19,27 +19,6 @@
   
 ### More games soon!
 
-# About me
-### Roblox
-- Developing game in roblox 
-
-- A player :D
-
-### Small Youtuber
-- Sharing roblox gameplay
-
-- Tutorials videos (in roblox)
-
-### Worst editor 
-
-- Alightmotion
-
-- Capcut
-
-- and more...
-
 (Games that are in this page isn't mine)
 
 -end
-
-### <pre>                                                                                            About me
