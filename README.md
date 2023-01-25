@@ -1,10 +1,12 @@
-     marnyyy.github.io | Enjoy | playing |
+     marnyyy.github.io | Enjoy | playing
+
 
 
 # Welcome to 🅷🅾🆁🅸🆉🅾🅽 🅿🅻🅰🆈  Ground
 
-## 𝘽𝙚𝙩𝙖
-### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[About me](https://marnyyy.github.io/about.github.io/)
+## 𝘽𝙚𝙩𝙖ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[About me](https://marnyyy.github.io/about.github.io/)
+
+
 ### Choose a game to play 
 
 ## Ztype|[【﻿Ｐｌａｙ】](https://zty.pe/)___ SubwaySurfers|[【﻿Ｐｌａｙ】](https://poki.com/en/g/subway-surfers)
