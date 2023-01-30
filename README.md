@@ -6,7 +6,7 @@
 
 ## 𝘽𝙚𝙩𝙖ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[About me](https://marnyyy.github.io/about.github.io/)
 
-
+#### Use computer for better experience
 ### Choose a game to play 
 
 ## Ztype|[【﻿Ｐｌａｙ】](https://zty.pe/)___ SubwaySurfers|[【﻿Ｐｌａｙ】](https://poki.com/en/g/subway-surfers)
